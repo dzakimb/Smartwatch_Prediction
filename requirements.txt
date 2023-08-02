@@ -2,6 +2,7 @@
 # It is possible to specify requirements as plain names.
 seaborn
 pandas
+sklearn
 joblib
 
 # # The syntax supported here is the same as that of requirement specifiers.
@@ -9,7 +10,7 @@ joblib
 # requests [security] >= 2.8.1, == 2.8.* ; python_version < "2.7"
 # urllib3 @ https://github.com/urllib3/urllib3/archive/refs/tags/1.26.8.zip
 
-# # It is possible to refer to other requirement files or constraints files.
+# # It is possible to  refer to other requirement files or constraints files.
 # -r other-requirements.txt
 # -c constraints.txt
 
