@@ -1,0 +1,379 @@
+,Brand,Model,Operating System,Connectivity,Display Type,Display Size (inches),Resolution,Water Resistance (meters),Battery Life (days),Heart Rate Monitor,GPS,NFC,Price (USD),new_res,h_w_res,Height Res,Width Res
+0,Apple,Watch Series 7,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.9,396 x 484,50.0,18.0,Yes,Yes,Yes,399.0,191664.0,"(396, 484)",396.0,484.0
+1,Samsung,Galaxy Watch 4,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,450 x 450,50.0,40.0,Yes,Yes,Yes,249.0,202500.0,"(450, 450)",450.0,450.0
+2,Garmin,Venu 2,Garmin OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,50.0,11.0,Yes,Yes,No,399.0,173056.0,"(416, 416)",416.0,416.0
+3,Fitbit,Versa 3,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,229.0,112896.0,"(336, 336)",336.0,336.0
+4,Fossil,Gen 6,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30.0,24.0,Yes,Yes,Yes,299.0,173056.0,"(416, 416)",416.0,416.0
+5,Huawei,Watch 3 Pro,HarmonyOS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.43,466 x 466,50.0,14.0,Yes,Yes,Yes,499.0,217156.0,"(466, 466)",466.0,466.0
+6,TicWatch,E3,Wear OS,"Bluetooth, Wi-Fi, Cellular",IPS LCD,1.3,360 x 360,50.0,2.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",360.0,360.0
+7,Oppo,Watch 2,ColorOS,"Bluetooth, Wi-Fi",AMOLED,1.75,372 x 430,50.0,4.0,Yes,Yes,Yes,199.0,159960.0,"(372, 430)",372.0,430.0
+8,Amazfit,GTR 3,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,12.0,Yes,Yes,Yes,199.0,206116.0,"(454, 454)",454.0,454.0
+9,Skagen,Jorn Hybrid HR,Wear OS,Bluetooth,AMOLED,1.3631648936170215,454 x 454,30.0,14.0,Yes,No,No,195.0,139611.02933333334,"(454, 454)",454.0,454.0
+10,Withings,ScanWatch,Withings OS,Bluetooth,AMOLED,1.65,240 x 240,50.0,30.0,Yes,Yes,Yes,279.0,57600.0,"(240, 240)",240.0,240.0
+11,Timex,Metropolitan R,Wear OS,Bluetooth,AMOLED,1.2,390 x 390,30.0,3.0,Yes,No,No,179.0,152100.0,"(390, 390)",390.0,390.0
+12,Suunto,7,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,2.0,Yes,Yes,Yes,499.0,206116.0,"(454, 454)",454.0,454.0
+13,Mobvoi,TicWatch Pro 3 GPS,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,45.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+14,Polar,Ignite 2,Polar OS,"Bluetooth, Wi-Fi",TFT LCD,1.2,240 x 240,30.0,5.0,Yes,Yes,Yes,229.0,57600.0,"(240, 240)",240.0,240.0
+15,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",336.0,336.0
+16,Garmin,Forerunner 945 LTE,Garmin OS,"Bluetooth, Wi-Fi, Cellular",Memory-in-pixel (MIP),1.2,240 x 240,50.0,10.0,Yes,Yes,Yes,649.0,57600.0,"(240, 240)",240.0,240.0
+17,Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.57,394 x 324,50.0,18.0,Yes,Yes,Yes,279.0,127656.0,"(394, 324)",394.0,324.0
+18,Samsung,Galaxy Watch 3,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,3.0,Yes,Yes,Yes,349.0,129600.0,"(360, 360)",360.0,360.0
+19,Garmin,Venu Sq Music,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.3,240 x 240,50.0,6.0,Yes,Yes,Yes,249.0,57600.0,"(240, 240)",240.0,240.0
+20,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,329.0,112896.0,"(336, 336)",336.0,336.0
+21,Fossil,Collider,Hybrid OS,"Bluetooth, Wi-Fi",Analog,1.3631648936170215,454 x 454,30.0,14.0,Yes,No,Yes,195.0,139611.02933333334,"(454, 454)",454.0,454.0
+22,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,299.0,206116.0,"(454, 454)",454.0,454.0
+23,Amazfit,GTR 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",454.0,454.0
+24,TicWatch,Pro 3 GPS,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+25,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",416.0,416.0
+26,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",LCD,1.3,360 x 360,30.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",360.0,360.0
+27,Garmin,Lily,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.0,240 x 201,50.0,5.0,Yes,Yes,Yes,199.0,48240.0,"(240, 201)",240.0,201.0
+28,Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,279.0,164864.0,"(368, 448)",368.0,448.0
+29,Samsung,Galaxy Watch 3,Tizen,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,360 x 360,50.0,4.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",360.0,360.0
+30,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+31,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",336.0,336.0
+32,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,255.0,152100.0,"(390, 390)",390.0,390.0
+33,Huawei,Watch GT2 Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+34,Amazfit,GTR 2e,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,24.0,Yes,Yes,Yes,139.0,206116.0,"(454, 454)",454.0,454.0
+35,Ticwatch,Pro 4G/LTE,Wear OS,"Bluetooth, Wi-Fi, Cellular",OLED,1.39,400 x 400,50.0,48.0,Yes,Yes,Yes,299.0,160000.0,"(400, 400)",400.0,400.0
+36,Polar,Vantage V2,Polar OS,"Bluetooth, Wi-Fi",Gorilla Glass,1.2,240 x 240,100.0,7.0,Yes,Yes,Yes,499.0,57600.0,"(240, 240)",240.0,240.0
+37,Xiaomi,Mi Watch,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,16.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",454.0,454.0
+38,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",Transflective,1.4,360 x 360,100.0,14.0,Yes,Yes,Yes,499.0,129600.0,"(360, 360)",360.0,360.0
+39,Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.57,324 x 394,50.0,18.0,Yes,Yes,Yes,279.0,127656.0,"(324, 394)",324.0,394.0
+40,Samsung,Galaxy Watch Active 2,Tizen OS,"Bluetooth, Wi-Fi",Super AMOLED,1.4,360 x 360,50.0,2.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",360.0,360.0
+41,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+42,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,329.0,112896.0,"(336, 336)",336.0,336.0
+43,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,149.0,152100.0,"(390, 390)",390.0,390.0
+44,Huawei,Watch GT2 Pro,HarmonyOS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,299.0,206116.0,"(454, 454)",454.0,454.0
+45,TicWatch,Pro 4G/LTE,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,400 x 400,50.0,2.0,Yes,Yes,Yes,299.0,160000.0,"(400, 400)",400.0,400.0
+46,Suunto,7,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,2.0,Yes,Yes,Yes,479.0,206116.0,"(454, 454)",454.0,454.0
+47,Amazfit,GTR 2e,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,No,Yes,139.0,206116.0,"(454, 454)",454.0,454.0
+48,Polar,Vantage M,Polar OS,"Bluetooth, Wi-Fi",TFT LCD,1.2,240 x 240,50.0,30.0,Yes,Yes,No,279.0,57600.0,"(240, 240)",240.0,240.0
+49,Xiaomi,Mi Watch Lite,Proprietary OS,"Bluetooth, Wi-Fi",TFT LCD,1.4,320 x 320,50.0,9.0,Yes,Yes,Yes,59.0,102400.0,"(320, 320)",320.0,320.0
+50,Samsung,Galaxy Watch 3,Tizen,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,3.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",360.0,360.0
+51,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",MIP,1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+52,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,329.0,112896.0,"(336, 336)",336.0,336.0
+53,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,219.0,152100.0,"(390, 390)",390.0,390.0
+54,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,299.0,206116.0,"(454, 454)",454.0,454.0
+55,Xiaomi,Mi Watch Revolve,Proprietary,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,149.0,206116.0,"(454, 454)",454.0,454.0
+56,TicWatch,Pro 3 GPS,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+57,Amazfit,GTR 2e,Proprietary,"Bluetooth, Wi-Fi",AMOLED,1.65,348 x 442,50.0,45.0,Yes,Yes,No,139.0,153816.0,"(348, 442)",348.0,442.0
+58,Honor,MagicWatch 2,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,139.0,206116.0,"(454, 454)",454.0,454.0
+59,Suunto,9 Baro,Suunto OS,"Bluetooth, Wi-Fi",MIP,1.2,240 x 240,100.0,14.0,Yes,Yes,No,599.0,57600.0,"(240, 240)",240.0,240.0
+60,Samsung,Galaxy Watch Active2,Tizen,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,2.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",360.0,360.0
+61,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,50.0,2.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+62,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",336.0,336.0
+63,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,2.0,Yes,Yes,Yes,275.0,152100.0,"(390, 390)",390.0,390.0
+64,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,329.0,206116.0,"(454, 454)",454.0,454.0
+65,Xiaomi,Mi Watch Revolve,Proprietary OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,129.0,206116.0,"(454, 454)",454.0,454.0
+66,Amazfit,GTR 2e,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,139.0,206116.0,"(454, 454)",454.0,454.0
+67,TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+68,Oppo,Watch 2,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.91,402 x 476,50.0,16.0,Yes,Yes,Yes,299.0,191352.0,"(402, 476)",402.0,476.0
+69,Polar,Vantage M2,Polar OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,100.0,5.0,Yes,Yes,No,299.0,57600.0,"(240, 240)",240.0,240.0
+70,Xiaomi,Mi Watch Revolve,Proprietary,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,119.0,206116.0,"(454, 454)",454.0,454.0
+71,TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,454 x 454,50.0,45.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+72,Oppo,Watch 2,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.75,372 x 430,50.0,16.0,Yes,Yes,Yes,329.0,159960.0,"(372, 430)",372.0,430.0
+73,Honor,Watch GS Pro,LiteOS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,25.0,Yes,Yes,No,249.0,206116.0,"(454, 454)",454.0,454.0
+74,Suunto,7,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,2.0,Yes,Yes,Yes,499.0,206116.0,"(454, 454)",454.0,454.0
+75,LG,Watch Urbane 2nd Ed.,Android Wear,"Bluetooth, Wi-Fi, Cellular",P-OLED,1.38,480 x 480,1.5,2.0,Yes,Yes,Yes,399.0,230400.0,"(480, 480)",480.0,480.0
+76,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",416.0,416.0
+77,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi, Cellular",IPS LCD,1.3,360 x 360,1.5,3.0,Yes,Yes,No,199.0,129600.0,"(360, 360)",360.0,360.0
+78,Polar,Vantage V2,Proprietary,"Bluetooth, Wi-Fi",transflective,1.2,240 x 240,100.0,7.0,Yes,Yes,No,499.0,57600.0,"(240, 240)",240.0,240.0
+79,Withings,ScanWatch,Proprietary,"Bluetooth, Wi-Fi",PMOLED,1.65,240 x 240,50.0,30.0,Yes,Yes,No,279.0,57600.0,"(240, 240)",240.0,240.0
+80,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",transflective,1.2,240 x 240,50.0,2.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+81,Garmin,Venu Sq,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.3,240 x 240,50.0,6.0,Yes,Yes,Yes,199.0,57600.0,"(240, 240)",240.0,240.0
+82,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,329.0,112896.0,"(336, 336)",336.0,336.0
+83,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,30.0,24.0,Yes,Yes,Yes,249.0,152100.0,"(390, 390)",390.0,390.0
+84,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+85,Amazfit,GTS 2e,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.65,348 x 442,50.0,14.0,Yes,Yes,Yes,139.0,153816.0,"(348, 442)",348.0,442.0
+86,TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,30.0,72.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+87,Xiaomi,Mi Watch,MIUI for Watch,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,16.0,Yes,Yes,Yes,199.0,206116.0,"(454, 454)",454.0,454.0
+88,Oppo,Watch 2,ColorOS,"Bluetooth, Wi-Fi",AMOLED,1.75,372 x 430,50.0,16.0,Yes,Yes,Yes,249.0,159960.0,"(372, 430)",372.0,430.0
+89,Honor,Watch GS Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,25.0,Yes,Yes,Yes,249.0,206116.0,"(454, 454)",454.0,454.0
+90,Samsung,Galaxy Watch 3,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,3.0,Yes,Yes,Yes,349.0,129600.0,"(360, 360)",360.0,360.0
+91,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+92,Suunto,7,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,2.0,Yes,Yes,Yes,399.0,206116.0,"(454, 454)",454.0,454.0
+93,Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,279.0,164864.0,"(368, 448)",368.0,448.0
+94,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",336.0,336.0
+95,Mobvoi,TicWatch Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+96,Polar,Vantage V2,Polar OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,100.0,7.0,Yes,Yes,Yes,499.0,57600.0,"(240, 240)",240.0,240.0
+97,Samsung,Galaxy Watch Active 2,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,2.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",360.0,360.0
+98,Garmin,Lily,Garmin OS,"Bluetooth, Wi-Fi",TFT,1.3,240 x 240,50.0,5.0,Yes,Yes,No,199.0,57600.0,"(240, 240)",240.0,240.0
+99,Amazfit,GTR 2e,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,139.0,206116.0,"(454, 454)",454.0,454.0
+100,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,199.0,152100.0,"(390, 390)",390.0,390.0
+101,Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.57,324 x 394,50.0,18.0,Yes,Yes,Yes,279.0,127656.0,"(324, 394)",324.0,394.0
+102,Samsung,Galaxy Watch Active2,Tizen,"Bluetooth, Wi-Fi",Super AMOLED,1.4,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",360.0,360.0
+103,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi","Sunlight-visible, transflective memory-in-pixel (MIP)",1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+104,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",336.0,336.0
+105,Huawei,Watch GT 2 Pro,LiteOS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,299.0,206116.0,"(454, 454)",454.0,454.0
+106,Amazfit,GTR 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,179.0,206116.0,"(454, 454)",454.0,454.0
+107,Ticwatch,Pro 4G/LTE,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,400 x 400,50.0,2.0,Yes,Yes,Yes,299.0,160000.0,"(400, 400)",400.0,400.0
+108,Suunto,7,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,2.0,Yes,Yes,No,499.0,206116.0,"(454, 454)",454.0,454.0
+109,Fossil,Hybrid HR,Custom OS,"Bluetooth, Wi-Fi",E-Ink,1.06,176 x 176,30.0,14.0,Yes,No,No,199.0,30976.0,"(176, 176)",176.0,176.0
+110,Polar,Vantage M2,Polar OS,"Bluetooth, Wi-Fi",LCD,1.2,240 x 240,100.0,5.0,Yes,Yes,No,299.0,57600.0,"(240, 240)",240.0,240.0
+111,Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,279.0,164864.0,"(368, 448)",368.0,448.0
+112,Samsung,Galaxy Watch Active2,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.35,360 x 360,50.0,60.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",360.0,360.0
+113,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi","Sunlight-visible, transflective memory-in-pixel (MIP)",1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",240.0,240.0
+114,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",336.0,336.0
+115,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,219.0,152100.0,"(390, 390)",390.0,390.0
+116,Huawei,Watch GT 2 Pro,LiteOS,"Bluetooth, Wi-Fi, GPS",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,299.0,206116.0,"(454, 454)",454.0,454.0
+117,Apple,Watch Series 6,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,399.0,164864.0,"(368, 448)",368.0,448.0
+118,Samsung,Galaxy Watch 3,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,56.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",360.0,360.0
+119,Garmin,Venu Sq,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.3,240 x 240,50.0,6.0,Yes,Yes,Yes,199.0,57600.0,"(240, 240)",240.0,240.0
+120,Fitbit,Versa Lite Edition,Fitbit OS,"Bluetooth, Wi-Fi",LCD,1.34,300 x 300,50.0,4.0,Yes,No,No,159.0,90000.0,"(300, 300)",300.0,300.0
+121,Fossil,Hybrid HR,Custom OS,"Bluetooth, Wi-Fi",E-Ink,1.06,176 x 176,30.0,14.0,Yes,No,Yes,199.0,30976.0,"(176, 176)",176.0,176.0
+123,Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, GPS",Retina,1.78,324 x 394,50.0,18.0,Yes,Yes,Yes,279.0,127656.0,"(324, 394)",360.0,360.0
+124,Samsung,Galaxy Watch Active 2,Tizen OS,"Bluetooth, Wi-Fi, GPS",Super AMOLED,1.2,360 x 360,50.0,2.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",240.0,240.0
+125,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi, GPS",Transflective,1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",336.0,336.0
+126,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi, GPS",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,329.0,112896.0,"(336, 336)",200.0,200.0
+127,Fossil,Hybrid HR,Fossil OS,Bluetooth,E-ink,1.06,200 x 200,30.0,14.0,Yes,No,No,199.0,40000.0,"(200, 200)",454.0,454.0
+128,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi, GPS",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,299.0,206116.0,"(454, 454)",368.0,448.0
+129,Apple,Watch Series 6,watchOS,"Bluetooth, Wi-Fi, GPS",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,399.0,164864.0,"(368, 448)",360.0,360.0
+130,Samsung,Galaxy Watch 3,Tizen OS,"Bluetooth, Wi-Fi, GPS",Super AMOLED,1.4,360 x 360,50.0,2.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",280.0,280.0
+131,Garmin,Enduro,Garmin OS,"Bluetooth, Wi-Fi, GPS",Sunlight-visible,1.4,280 x 280,100.0,70.0,Yes,Yes,Yes,799.0,78400.0,"(280, 280)",300.0,300.0
+132,Fitbit,Versa 2,Fitbit OS,"Bluetooth, Wi-Fi, NFC",AMOLED,1.39,300 x 300,50.0,5.0,Yes,Yes,Yes,199.0,90000.0,"(300, 300)",390.0,390.0
+133,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi, GPS",AMOLED,1.2,390 x 390,50.0,2.0,Yes,Yes,Yes,219.0,152100.0,"(390, 390)",240.0,240.0
+134,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi","Sunlight-visible, transflective memory-in-pixel (MIP)",1.2,240 x 240,50.0,2.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",336.0,336.0
+135,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",128.0,128.0
+136,Fossil,Collider HR,Fossil OS,"Bluetooth, Wi-Fi",OLED,0.9,128 x 128,30.0,14.0,Yes,Yes,Yes,195.0,16384.0,"(128, 128)",454.0,454.0
+137,Huawei,Watch GT 2 Pro,LiteOS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+138,TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",240.0,240.0
+139,Polar,Vantage V2,Polar OS,"Bluetooth, Wi-Fi",Color Touch,1.2,240 x 240,100.0,7.0,Yes,Yes,No,499.0,57600.0,"(240, 240)",454.0,454.0
+140,Amazfit,GTR 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",454.0,454.0
+141,Suunto,7,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,2.0,Yes,Yes,Yes,499.0,206116.0,"(454, 454)",416.0,416.0
+142,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",360.0,360.0
+143,Samsung,Galaxy Watch Active2,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,3.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",240.0,240.0
+144,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",336.0,336.0
+145,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,329.0,112896.0,"(336, 336)",390.0,390.0
+146,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,199.0,152100.0,"(390, 390)",454.0,454.0
+147,Huawei,Watch GT 2 Pro,HarmonyOS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,299.0,206116.0,"(454, 454)",368.0,448.0
+148,Apple,Watch Series 6,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,399.0,164864.0,"(368, 448)",360.0,360.0
+149,Samsung,Galaxy Watch3,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,4.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",280.0,280.0
+150,Garmin,Fenix 6 Pro Solar,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.4,280 x 280,100.0,14.0,Yes,Yes,Yes,849.0,78400.0,"(280, 280)",300.0,300.0
+151,Fitbit,Versa 2,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,300 x 300,50.0,5.0,Yes,No,Yes,179.0,90000.0,"(300, 300)",240.0,198.0
+152,Fossil,Hybrid HR,Custom OS,Bluetooth,E-Ink,1.06,240 x 198,30.0,14.0,Yes,No,No,199.0,47520.0,"(240, 198)",336.0,336.0
+153,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,299.0,112896.0,"(336, 336)",390.0,390.0
+154,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,189.0,152100.0,"(390, 390)",454.0,454.0
+155,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",368.0,448.0
+156,Apple,Watch Series 6,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,399.0,164864.0,"(368, 448)",360.0,360.0
+157,Samsung,Galaxy Watch 3,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.2,360 x 360,50.0,4.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",240.0,240.0
+158,Garmin,Venu Sq,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.3,240 x 240,50.0,6.0,Yes,Yes,Yes,179.0,57600.0,"(240, 240)",240.0,240.0
+159,Fitbit,Charge 5,Fitbit OS,Bluetooth,AMOLED,1.04,240 x 240,50.0,7.0,Yes,No,Yes,179.0,57600.0,"(240, 240)",416.0,416.0
+160,Fossil,Gen 5 Carlyle,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",454.0,454.0
+161,Xiaomi,Mi Watch,MIUI,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,16.0,Yes,Yes,Yes,139.0,206116.0,"(454, 454)",454.0,454.0
+162,TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,45.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",454.0,454.0
+163,Honor,Magic Watch 2,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,199.0,206116.0,"(454, 454)",454.0,454.0
+164,Amazfit,GTR 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",416.0,416.0
+165,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",360.0,360.0
+166,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",402.0,476.0
+167,Oppo,Watch,ColorOS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.91,402 x 476,50.0,16.0,Yes,Yes,Yes,229.0,191352.0,"(402, 476)",454.0,454.0
+168,Suunto,7,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,2.0,Yes,Yes,No,399.0,206116.0,"(454, 454)",400.0,400.0
+169,Mobvoi,TicWatch Pro 2020,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,400 x 400,50.0,2.0,Yes,Yes,Yes,299.0,160000.0,"(400, 400)",390.0,390.0
+170,Casio,Pro Trek WSD-F30,Wear OS,"Bluetooth, Wi-Fi",Dual Layer,1.2,390 x 390,50.0,1.0,Yes,Yes,Yes,549.0,152100.0,"(390, 390)",240.0,240.0
+171,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",OLED,1.4,240 x 240,100.0,14.0,Yes,Yes,No,569.0,57600.0,"(240, 240)",240.0,240.0
+172,Garmin,Forerunner 945,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,50.0,14.0,Yes,Yes,Yes,599.0,57600.0,"(240, 240)",336.0,336.0
+173,Fitbit,Sense,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50.0,6.0,Yes,Yes,Yes,329.0,112896.0,"(336, 336)",176.0,176.0
+174,Fossil,Hybrid HR,Fossil OS,"Bluetooth, Wi-Fi",E-Ink,1.06,176 x 176,30.0,14.0,Yes,No,Yes,199.0,30976.0,"(176, 176)",280.0,456.0
+175,Huawei,Watch Fit,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.64,280 x 456,50.0,10.0,Yes,No,Yes,129.0,127680.0,"(280, 456)",400.0,400.0
+176,TicWatch,Pro 4G/LTE,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,400 x 400,50.0,2.0,Yes,Yes,Yes,299.0,160000.0,"(400, 400)",348.0,442.0
+177,Amazfit,GTS 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.65,348 x 442,50.0,7.0,Yes,Yes,Yes,179.0,153816.0,"(348, 442)",454.0,454.0
+178,OnePlus,Watch,RTOS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,159.0,206116.0,"(454, 454)",372.0,430.0
+179,Oppo,Watch 2,ColorOS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.75,372 x 430,50.0,16.0,Yes,Yes,Yes,249.0,159960.0,"(372, 430)",240.0,240.0
+180,Polar,Vantage V2,Polar OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,100.0,7.0,Yes,Yes,No,499.0,57600.0,"(240, 240)",360.0,360.0
+181,LG,Watch W7,Wear OS,"Bluetooth, Wi-Fi",LCD,1.2,360 x 360,50.0,2.0,Yes,Yes,No,249.0,129600.0,"(360, 360)",328.0,328.0
+182,Misfit,Vapor X,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,328 x 328,50.0,2.0,Yes,Yes,Yes,199.0,107584.0,"(328, 328)",454.0,454.0
+183,Mobvoi,TicWatch Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",390.0,390.0
+184,Moto,Moto 360 (3rd Gen),Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,30.0,2.0,Yes,Yes,Yes,299.0,152100.0,"(390, 390)",360.0,360.0
+185,MyKronoz,ZeTime Elite 2,MyKronoz OS,"Bluetooth, Wi-Fi",TFT LCD,1.3,360 x 360,50.0,5.0,Yes,No,Yes,199.0,129600.0,"(360, 360)",960.0,192.0
+186,Nubia,Alpha,Nubia OS,"Bluetooth, Wi-Fi, Cellular",OLED,4.01,960 x 192,52.819628647214856,48.0,Yes,Yes,Yes,449.0,184320.0,"(960, 192)",416.0,416.0
+187,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,30.0,1.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",320.0,320.0
+188,Sony,SmartWatch 3,Android Wear,"Bluetooth, Wi-Fi",Transflective,1.6,320 x 320,30.0,2.0,Yes,Yes,Yes,299.0,102400.0,"(320, 320)",400.0,400.0
+189,TicWatch,E2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,400 x 400,50.0,2.0,Yes,Yes,Yes,159.0,160000.0,"(400, 400)",320.0,320.0
+190,Xiaomi,Mi Watch Lite,Mi Wear OS,"Bluetooth, Wi-Fi",LCD,1.4,320 x 320,50.0,9.0,Yes,Yes,Yes,49.0,102400.0,"(320, 320)",454.0,454.0
+191,Zepp,Z,Zepp OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,15.0,Yes,Yes,Yes,349.0,206116.0,"(454, 454)",360.0,360.0
+192,TicWatch,E3,Wear OS,"Bluetooth, Wi-Fi",LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",454.0,454.0
+193,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",360.0,360.0
+194,Samsung,Galaxy Watch Active 2,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.4,360 x 360,50.0,2.0,Yes,Yes,Yes,279.0,129600.0,"(360, 360)",368.0,448.0
+195,Apple,Watch Series 6,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,399.0,164864.0,"(368, 448)",348.0,250.0
+196,Fitbit,Ionic,Fitbit OS,"Bluetooth, Wi-Fi",LCD,1.42,348 x 250,50.0,5.0,Yes,Yes,Yes,249.0,87000.0,"(348, 250)",416.0,416.0
+197,Fossil,Gen 5,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",240.0,240.0
+198,Garmin,Venu Sq,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.3,240 x 240,50.0,6.0,Yes,Yes,Yes,199.0,57600.0,"(240, 240)",454.0,454.0
+199,Mobvoi,TicWatch Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",360.0,360.0
+200,Oppo,Watch Free,ColorOS,"Bluetooth, Wi-Fi",AMOLED,1.6,360 x 360,50.0,14.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",454.0,454.0
+201,Realme,Watch S Pro,Realme OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,179.0,206116.0,"(454, 454)",320.0,300.0
+202,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",Transflective,1.4,320 x 300,100.0,14.0,Yes,Yes,Yes,569.0,96000.0,"(320, 300)",390.0,390.0
+203,Timex,Metropolitan R,Proprietary OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,30.0,5.0,Yes,Yes,No,179.0,152100.0,"(390, 390)",360.0,360.0
+204,Matrix,PowerWatch 2,Matrix OS,"Bluetooth, Wi-Fi",LCD,1.2,360 x 360,200.0,12.28,Yes,Yes,Yes,499.0,129600.0,"(360, 360)",360.0,360.0
+205,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",416.0,416.0
+206,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",320.0,320.0
+207,Xiaomi,Mi Watch Lite,Proprietary OS,Bluetooth,TFT LCD,1.4,320 x 320,50.0,9.0,Yes,No,Yes,69.0,102400.0,"(320, 320)",454.0,454.0
+208,Honor,MagicWatch 2,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,199.0,206116.0,"(454, 454)",240.0,240.0
+209,Withings,ScanWatch,Proprietary OS,"Bluetooth, Wi-Fi",PMOLED,1.3,240 x 240,50.0,30.0,Yes,Yes,Yes,279.0,57600.0,"(240, 240)",390.0,390.0
+210,Kate Spade,Scallop 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,1.0,Yes,Yes,Yes,295.0,152100.0,"(390, 390)",390.0,390.0
+211,Diesel,On Fadelite,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,2.0,Yes,Yes,Yes,299.0,152100.0,"(390, 390)",320.0,302.0
+212,Amazfit,Bip U Pro,Amazfit OS,"Bluetooth, Wi-Fi",TFT LCD,1.43,320 x 302,50.0,9.0,Yes,No,Yes,69.0,96640.0,"(320, 302)",280.0,456.0
+213,Honor,Watch ES,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.64,280 x 456,50.0,10.0,Yes,No,Yes,99.0,127680.0,"(280, 456)",390.0,390.0
+214,Timex,Metropolitan R,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,3.0,Yes,Yes,No,179.0,152100.0,"(390, 390)",416.0,416.0
+215,Michael Kors,Lexington 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30.0,24.0,Yes,Yes,Yes,299.0,173056.0,"(416, 416)",390.0,390.0
+216,Diesel,Fadelite,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,2.0,Yes,Yes,Yes,249.0,152100.0,"(390, 390)",360.0,360.0
+217,LG,Watch W7,Wear OS,"Bluetooth, Wi-Fi",LCD,1.2,360 x 360,50.0,2.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",360.0,360.0
+218,TicWatch,E3,Wear OS,"Bluetooth, Wi-Fi",TFT-LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",360.0,360.0
+219,Mobvoi,TicWatch C2+,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,360 x 360,50.0,2.0,Yes,Yes,Yes,209.0,129600.0,"(360, 360)",400.0,400.0
+220,Zeblaze,Thor 5 Pro,Android OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.6,400 x 400,50.0,5.0,Yes,Yes,Yes,189.0,160000.0,"(400, 400)",480.0,480.0
+221,Kospet,Prime 2,Android OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,2.1,480 x 480,50.0,4.0,Yes,Yes,Yes,269.0,230400.0,"(480, 480)",400.0,400.0
+222,Lemfo,Lem12 Pro,Android OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.6,400 x 400,50.0,3.0,Yes,Yes,Yes,179.0,160000.0,"(400, 400)",320.0,320.0
+223,Amazfit,Stratos 3,Amazfit OS,"Bluetooth, Wi-Fi",Transflective,1.34,320 x 320,50.0,7.0,Yes,Yes,Yes,199.0,102400.0,"(320, 320)",280.0,280.0
+224,Garmin,Enduro,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.4,280 x 280,100.0,70.0,Yes,Yes,Yes,799.0,78400.0,"(280, 280)",360.0,360.0
+225,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",240.0,240.0
+226,Withings,Steel HR Sport,Proprietary,"Bluetooth, Wi-Fi",OLED,1.23,240 x 240,50.0,25.0,Yes,Yes,No,199.0,57600.0,"(240, 240)",360.0,360.0
+227,Casio,G-Shock Move,Casio OS,"Bluetooth, Wi-Fi",LCD,1.2,360 x 360,200.0,2.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",176.0,176.0
+228,Amazfit,Bip S,Amazfit OS,"Bluetooth, Wi-Fi",Transflective,1.28,176 x 176,50.0,40.0,Yes,No,Yes,69.0,30976.0,"(176, 176)",240.0,240.0
+229,Garmin,Lily,Garmin OS,"Bluetooth, Wi-Fi",TFT LCD,1.0,240 x 240,50.0,5.0,Yes,Yes,No,199.0,57600.0,"(240, 240)",454.0,454.0
+230,Huawei,Watch GT 2e,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,139.0,206116.0,"(454, 454)",480.0,480.0
+231,LG,Watch Urbane 2,Wear OS,"Bluetooth, Wi-Fi, Cellular",P-OLED,1.38,480 x 480,50.0,2.0,Yes,Yes,Yes,299.0,230400.0,"(480, 480)",240.0,240.0
+232,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,100.0,14.0,Yes,Yes,No,699.0,57600.0,"(240, 240)",390.0,390.0
+233,Timex,Metropolitan R,Proprietary,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,12.0,Yes,No,Yes,179.0,152100.0,"(390, 390)",240.0,240.0
+234,Polar,Ignite 2,Polar OS,"Bluetooth, Wi-Fi",IPS LCD,1.2,240 x 240,50.0,5.0,Yes,Yes,No,229.0,57600.0,"(240, 240)",454.0,454.0
+235,Xiaomi,Mi Watch Revolve,Proprietary,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,129.0,206116.0,"(454, 454)",240.0,240.0
+236,Skagen,Jorn Hybrid HR,Skagen OS,"Bluetooth, Wi-Fi",E-Ink,1.2,240 x 240,30.0,14.0,Yes,No,No,195.0,57600.0,"(240, 240)",454.0,454.0
+237,Xiaomi,Mi Watch Revolve,MIUI for Watch,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,120.0,206116.0,"(454, 454)",390.0,390.0
+238,Kate Spade,Scallop 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,30.0,1.0,Yes,Yes,Yes,299.0,152100.0,"(390, 390)",400.0,400.0
+239,TAG Heuer,Connected Modular 45,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,400 x 400,50.0,25.0,Yes,Yes,Yes,1500.0,160000.0,"(400, 400)",390.0,390.0
+240,Misfit,Vapor X,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,2.0,Yes,Yes,Yes,279.0,152100.0,"(390, 390)",416.0,416.0
+241,Michael Kors,Access Bradshaw 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30.0,1.0,Yes,Yes,Yes,349.0,173056.0,"(416, 416)",360.0,360.0
+242,Casio,G-Shock GBD-H1000,Casio OS,"Bluetooth, Wi-Fi",STN LCD,1.2,360 x 360,200.0,14.0,Yes,Yes,Yes,399.0,129600.0,"(360, 360)",228.0,172.0
+243,Matrix,PowerWatch 2,Matrix OS,"Bluetooth, Wi-Fi",LCD,1.2,228 x 172,200.0,12.28,Yes,Yes,Yes,499.0,39216.0,"(228, 172)",128.0,128.0
+244,Garmin,Instinct Solar,Garmin OS,"Bluetooth, Wi-Fi",Monochrome,0.9,128 x 128,100.0,24.0,Yes,Yes,Yes,399.0,16384.0,"(128, 128)",240.0,240.0
+245,Timex,Metropolitan R,Timex OS,"Bluetooth, Wi-Fi",E-Ink,1.2,240 x 240,50.0,30.0,Yes,No,No,179.0,57600.0,"(240, 240)",390.0,390.0
+246,Diesel,On Fadelite,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,2.0,Yes,Yes,Yes,249.0,152100.0,"(390, 390)",360.0,360.0
+247,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",360.0,360.0
+248,Casio,G-Shock GBD-H1000,Casio OS,"Bluetooth, Wi-Fi",Transflective,1.2,360 x 360,200.0,14.0,Yes,Yes,No,399.0,129600.0,"(360, 360)",454.0,454.0
+249,Amazfit,GTR 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",280.0,456.0
+250,Honor,Watch ES,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.64,280 x 456,50.0,10.0,Yes,No,No,99.0,127680.0,"(280, 456)",454.0,454.0
+251,Realme,Watch S Pro,Realme OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,149.0,206116.0,"(454, 454)",416.0,416.0
+252,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,30.0,24.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",454.0,454.0
+253,Zepp,Z,Zepp OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,15.0,Yes,Yes,Yes,349.0,206116.0,"(454, 454)",390.0,390.0
+254,Diesel,On Fadelite,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,2.0,Yes,Yes,Yes,275.0,152100.0,"(390, 390)",280.0,280.0
+255,Garmin,Enduro,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.4,280 x 280,100.0,70.0,Yes,Yes,Yes,799.0,78400.0,"(280, 280)",280.0,280.0
+256,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",Transflective,1.4,280 x 280,100.0,14.0,Yes,Yes,Yes,699.0,78400.0,"(280, 280)",348.0,250.0
+257,Fitbit,Ionic,Fitbit OS,"Bluetooth, Wi-Fi",LCD,1.42,348 x 250,50.0,5.0,Yes,Yes,Yes,249.0,87000.0,"(348, 250)",328.0,328.0
+258,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,328 x 328,30.0,24.0,Yes,Yes,Yes,295.0,107584.0,"(328, 328)",390.0,390.0
+259,Montblanc,Summit 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,390 x 390,50.0,1.5,Yes,Yes,Yes,990.0,152100.0,"(390, 390)",400.0,400.0
+260,TAG Heuer,Connected Modular 45,Wear OS,"Bluetooth, Wi-Fi",OLED,1.39,400 x 400,50.0,25.0,Yes,Yes,Yes,1650.0,160000.0,"(400, 400)",400.0,400.0
+261,Asus,ZenWatch 3,Android Wear,"Bluetooth, Wi-Fi",AMOLED,1.39,400 x 400,50.0,1.5,Yes,Yes,No,229.0,160000.0,"(400, 400)",400.0,400.0
+262,Mobvoi,TicWatch Pro,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,400 x 400,50.0,2.0,Yes,Yes,Yes,279.0,160000.0,"(400, 400)",360.0,360.0
+263,Misfit,Vapor 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,360 x 360,30.0,1.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",348.0,442.0
+264,Withings,ScanWatch,Withings OS,"Bluetooth, Wi-Fi",PMOLED,1.38,348 x 442,50.0,30.0,Yes,Yes,Yes,279.0,153816.0,"(348, 442)",416.0,416.0
+265,Michael Kors,Access Gen 5,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30.0,1.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",390.0,390.0
+266,Diesel,On Fadelite,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,1.5,Yes,Yes,Yes,295.0,152100.0,"(390, 390)",390.0,390.0
+267,Emporio Armani,Connected,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,1.5,Yes,Yes,Yes,375.0,152100.0,"(390, 390)",454.0,454.0
+268,Zepp,Z,Zepp OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,15.0,Yes,Yes,Yes,349.0,206116.0,"(454, 454)",454.0,454.0
+269,Xiaomi,Mi Watch Revolve,MIUI For Watch,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,99.0,206116.0,"(454, 454)",360.0,360.0
+270,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",454.0,454.0
+271,Honor,Watch GS Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,25.0,Yes,Yes,Yes,249.0,206116.0,"(454, 454)",328.0,328.0
+272,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,328 x 328,30.0,2.0,Yes,Yes,Yes,295.0,107584.0,"(328, 328)",320.0,320.0
+273,Sony,SmartWatch 3,Android Wear,"Bluetooth, Wi-Fi",Transflective,1.6,320 x 320,30.0,2.0,Yes,Yes,Yes,150.0,102400.0,"(320, 320)",390.0,390.0
+274,Casio,Pro Trek Smart WSD-F30,Wear OS,"Bluetooth, Wi-Fi",OLED,1.2,390 x 390,50.0,1.0,Yes,Yes,Yes,549.0,152100.0,"(390, 390)",160.0,160.0
+275,Timex,Ironman R300 GPS,Timex OS,"Bluetooth, Wi-Fi",Memory LCD,1.1,160 x 160,100.0,20.0,Yes,Yes,No,129.0,25600.0,"(160, 160)",240.0,240.0
+276,Withings,ScanWatch 38mm,Withings OS,"Bluetooth, Wi-Fi",PMOLED,1.3,240 x 240,50.0,30.0,Yes,No,Yes,279.0,57600.0,"(240, 240)",480.0,480.0
+277,LG,Watch Urbane 2nd Edition,Android Wear,"Bluetooth, Wi-Fi, Cellular",P-OLED,1.38,480 x 480,10.0,2.0,Yes,Yes,Yes,399.0,230400.0,"(480, 480)",240.0,240.0
+278,Polaroid,Cosmo,Android,"Bluetooth, Wi-Fi",TFT LCD,1.2,240 x 240,50.0,2.0,Yes,Yes,Yes,249.0,57600.0,"(240, 240)",240.0,240.0
+279,MyKronoz,ZeTime,MyKronoz OS,"Bluetooth, Wi-Fi",TFT LCD,1.22,240 x 240,30.0,3.0,Yes,Yes,Yes,199.0,57600.0,"(240, 240)",454.0,454.0
+280,Xiaomi,Mi Watch Revolve,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,99.0,206116.0,"(454, 454)",360.0,360.0
+281,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",454.0,454.0
+282,Honor,Watch GS Pro,Lite OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,25.0,Yes,Yes,Yes,249.0,206116.0,"(454, 454)",416.0,416.0
+283,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",OLED,1.3,416 x 416,30.0,1.0,Yes,Yes,Yes,295.0,173056.0,"(416, 416)",240.0,240.0
+284,Withings,ScanWatch,Withings OS,"Bluetooth, Wi-Fi",PMOLED,1.65,240 x 240,50.0,30.0,Yes,Yes,Yes,279.0,57600.0,"(240, 240)",454.0,454.0
+285,Timex,Metropolitan+,Timex OS,Bluetooth,E-Ink,1.5,454 x 454,50.0,1.0,Yes,No,No,79.0,139611.02933333334,"(454, 454)",454.0,454.0
+286,Kospet,Optimus Pro,Android,"Bluetooth, Wi-Fi, Cellular",IPS LCD,1.39,454 x 454,30.0,3.0,Yes,Yes,Yes,199.0,206116.0,"(454, 454)",454.0,454.0
+287,Zepp,Z,Zepp OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,15.0,Yes,Yes,Yes,249.0,206116.0,"(454, 454)",454.0,454.0
+288,Realme,Watch S Pro,Proprietary OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,No,139.0,206116.0,"(454, 454)",390.0,390.0
+289,Casio,Pro Trek WSD-F30,Wear OS,"Bluetooth, Wi-Fi",OLED,1.2,390 x 390,50.0,1.5,Yes,Yes,Yes,549.0,152100.0,"(390, 390)",416.0,416.0
+290,Montblanc,Summit 2+,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.28,416 x 416,50.0,1.0,Yes,Yes,Yes,1230.0,173056.0,"(416, 416)",360.0,360.0
+291,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",360.0,360.0
+292,Casio,G-Shock GBD-H1000,Casio OS,"Bluetooth, Wi-Fi",LCD,1.2,360 x 360,200.0,14.0,Yes,Yes,No,399.0,129600.0,"(360, 360)",454.0,454.0
+293,Honor,MagicWatch 2,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,159.0,206116.0,"(454, 454)",454.0,454.0
+294,Xiaomi,Mi Watch Revolve,Proprietary,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,149.0,206116.0,"(454, 454)",240.0,240.0
+295,Polar,Ignite 2,Polar OS,"Bluetooth, Wi-Fi",IPS LCD,1.2,240 x 240,30.0,5.0,Yes,Yes,Yes,229.0,57600.0,"(240, 240)",320.0,300.0
+296,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",Transflective,1.4,320 x 300,100.0,14.0,Yes,Yes,Yes,699.0,96000.0,"(320, 300)",128.0,128.0
+297,Garmin,Instinct,Garmin OS,"Bluetooth, Wi-Fi",Monochrome,0.9,128 x 128,100.0,14.0,Yes,Yes,No,299.0,16384.0,"(128, 128)",360.0,360.0
+298,Amazfit,T-Rex Pro,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.3,360 x 360,100.0,18.0,Yes,Yes,Yes,179.0,129600.0,"(360, 360)",390.0,390.0
+299,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,219.0,152100.0,"(390, 390)",360.0,360.0
+300,TicWatch,C2+,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,360 x 360,50.0,1.5,Yes,Yes,Yes,209.0,129600.0,"(360, 360)",454.0,454.0
+301,Huawei,Watch GT 2,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",390.0,390.0
+302,Michael Kors,Access Runway,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,1.0,Yes,Yes,Yes,349.0,152100.0,"(390, 390)",328.0,328.0
+303,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",OLED,1.3,328 x 328,30.0,1.0,Yes,Yes,Yes,295.0,107584.0,"(328, 328)",400.0,400.0
+304,Mobvoi,TicWatch E2,Wear OS,"Bluetooth, Wi-Fi",LCD,1.39,400 x 400,50.0,2.0,Yes,Yes,Yes,159.0,160000.0,"(400, 400)",454.0,454.0
+305,TAG Heuer,Connected,Wear OS,"Bluetooth, Wi-Fi, Cellular",OLED,1.39,454 x 454,50.0,20.0,Yes,Yes,Yes,1800.0,206116.0,"(454, 454)",400.0,400.0
+306,Asus,ZenWatch 3,Android Wear,"Bluetooth, Wi-Fi",AMOLED,1.39,400 x 400,50.0,2.0,Yes,Yes,No,229.0,160000.0,"(400, 400)",454.0,454.0
+307,Honor,MagicWatch 2,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,199.0,206116.0,"(454, 454)",368.0,448.0
+308,Xiaomi,Mi Watch,MIUI,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.78,368 x 448,50.0,16.0,Yes,Yes,Yes,399.0,164864.0,"(368, 448)",240.0,240.0
+309,Polar,Ignite,Polar OS,"Bluetooth, Wi-Fi",IPS,1.2,240 x 240,30.0,5.0,Yes,Yes,Yes,199.0,57600.0,"(240, 240)",260.0,260.0
+310,Garmin,Vivoactive 4,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.3,260 x 260,50.0,8.0,Yes,Yes,Yes,349.0,67600.0,"(260, 260)",390.0,390.0
+311,Misfit,Vapor X,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,2.0,Yes,Yes,Yes,279.0,152100.0,"(390, 390)",454.0,454.0
+312,Mobvoi,TicWatch Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",390.0,390.0
+313,Casio,Pro Trek F30,Wear OS,"Bluetooth, Wi-Fi",OLED,1.2,390 x 390,50.0,1.5,Yes,Yes,No,549.0,152100.0,"(390, 390)",328.0,328.0
+314,Diesel,On Axial,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,328 x 328,30.0,24.0,Yes,Yes,Yes,295.0,107584.0,"(328, 328)",328.0,328.0
+315,Emporio Armani,Smartwatch 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,328 x 328,30.0,24.0,Yes,Yes,Yes,375.0,107584.0,"(328, 328)",360.0,360.0
+316,Misfit,Vapor 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,360 x 360,50.0,1.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",360.0,360.0
+317,Mobvoi,TicWatch C2+,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,360 x 360,50.0,1.5,Yes,Yes,Yes,209.0,129600.0,"(360, 360)",390.0,390.0
+318,Motorola,Moto 360,Wear OS,"Bluetooth, Wi-Fi",OLED,1.2,390 x 390,30.0,1.5,Yes,Yes,Yes,299.0,152100.0,"(390, 390)",160.0,160.0
+319,Nokia,Steel HR,Proprietary OS,"Bluetooth, Wi-Fi",OLED,1.36,160 x 160,50.0,25.0,Yes,No,Yes,179.0,25600.0,"(160, 160)",328.0,328.0
+320,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,328 x 328,30.0,24.0,Yes,Yes,Yes,295.0,107584.0,"(328, 328)",320.0,320.0
+321,Sony,SmartWatch 3,Android Wear,"Bluetooth, Wi-Fi",Transflective,1.6,320 x 320,30.0,2.0,Yes,Yes,No,249.0,102400.0,"(320, 320)",400.0,400.0
+322,TAG Heuer,Connected Modular 45,Android Wear,"Bluetooth, Wi-Fi",OLED,1.39,400 x 400,50.0,25.0,Yes,Yes,Yes,1200.0,160000.0,"(400, 400)",390.0,390.0
+323,Montblanc,Summit 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,1.5,Yes,Yes,Yes,1170.0,152100.0,"(390, 390)",454.0,454.0
+324,Xiaomi,Mi Watch Revolve,Proprietary OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,129.0,206116.0,"(454, 454)",454.0,454.0
+325,Honor,Watch GS Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,25.0,Yes,Yes,Yes,249.0,206116.0,"(454, 454)",360.0,360.0
+326,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",454.0,454.0
+327,Zepp,Z Titanium,Proprietary OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,15.0,Yes,Yes,Yes,349.0,206116.0,"(454, 454)",360.0,360.0
+328,LG,Watch W7,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.2,360 x 360,50.0,2.0,Yes,Yes,Yes,249.0,129600.0,"(360, 360)",328.0,328.0
+329,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",OLED,1.3,328 x 328,30.0,1.0,Yes,Yes,Yes,295.0,107584.0,"(328, 328)",390.0,390.0
+330,Misfit,Vapor X,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,2.0,Yes,Yes,Yes,199.0,152100.0,"(390, 390)",348.0,442.0
+331,Withings,ScanWatch,Withings OS,"Bluetooth, Wi-Fi",PMOLED,1.38,348 x 442,50.0,30.0,Yes,Yes,Yes,279.0,153816.0,"(348, 442)",320.0,300.0
+332,Casio,Pro Trek Smart WSD-30F,Wear OS,"Bluetooth, Wi-Fi",LCD,1.32,320 x 300,50.0,1.0,Yes,Yes,Yes,399.0,96000.0,"(320, 300)",390.0,390.0
+333,Timex,Metropolitan R AMOLED,Timex OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,30.0,3.0,Yes,No,Yes,179.0,152100.0,"(390, 390)",128.0,128.0
+334,Garmin,Instinct Solar,Garmin OS,"Bluetooth, Wi-Fi",Monochrome,0.9,128 x 128,100.0,24.0,Yes,Yes,No,399.0,16384.0,"(128, 128)",360.0,360.0
+335,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",454.0,454.0
+336,Amazfit,GTR 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",240.0,240.0
+337,Garmin,Venu Sq Music,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.3,240 x 240,50.0,6.0,Yes,Yes,Yes,249.0,57600.0,"(240, 240)",360.0,360.0
+338,Samsung,Galaxy Watch,Tizen OS,"Bluetooth, Wi-Fi, Cellular",Super AMOLED,1.3,360 x 360,50.0,4.0,Yes,Yes,Yes,259.0,129600.0,"(360, 360)",240.0,240.0
+339,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",Transflective,1.2,240 x 240,100.0,14.0,Yes,Yes,No,569.0,57600.0,"(240, 240)",454.0,454.0
+340,Honor,MagicWatch 2,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,159.0,206116.0,"(454, 454)",454.0,454.0
+341,TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",240.0,201.0
+342,Garmin,Lily,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.0,240 x 201,50.0,5.0,Yes,Yes,Yes,199.0,48240.0,"(240, 201)",348.0,250.0
+343,Fitbit,Ionic,Fitbit OS,"Bluetooth, Wi-Fi, Cellular",LCD,1.42,348 x 250,50.0,5.0,Yes,Yes,Yes,299.0,87000.0,"(348, 250)",454.0,454.0
+344,Huawei,Watch GT 2e,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,No,Yes,139.0,206116.0,"(454, 454)",390.0,390.0
+345,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,2.0,Yes,Yes,Yes,149.0,152100.0,"(390, 390)",390.0,390.0
+346,Michael Kors,Access Runway,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,1.0,Yes,Yes,Yes,349.0,152100.0,"(390, 390)",400.0,400.0
+347,Asus,ZenWatch 3,Android Wear,"Bluetooth, Wi-Fi",AMOLED,1.39,400 x 400,50.0,2.0,Yes,Yes,No,229.0,160000.0,"(400, 400)",454.0,454.0
+348,Mobvoi,TicWatch Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50.0,3.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",390.0,390.0
+349,Skagen,Falster 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,1.0,Yes,Yes,Yes,295.0,152100.0,"(390, 390)",126.0,36.0
+350,Nokia,Steel HR,Proprietary OS,Bluetooth,PMOLED,1.1,126 x 36,50.0,25.0,Yes,No,Yes,179.0,4536.0,"(126, 36)",328.0,328.0
+351,Misfit,Vapor X,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,328 x 328,30.0,2.0,Yes,Yes,Yes,279.0,107584.0,"(328, 328)",390.0,390.0
+352,Kate Spade,Scallop 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.19,390 x 390,30.0,1.0,Yes,Yes,Yes,295.0,152100.0,"(390, 390)",454.0,454.0
+353,Diesel,On Full Guard 2.5,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,1.0,Yes,Yes,Yes,325.0,206116.0,"(454, 454)",228.0,172.0
+354,Matrix,PowerWatch 2,Proprietary OS,Bluetooth,LCD,1.2,228 x 172,200.0,12.28,Yes,Yes,No,499.0,39216.0,"(228, 172)",360.0,360.0
+355,TicWatch,C2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.3,360 x 360,50.0,1.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",400.0,400.0
+356,Mobvoi,TicWatch S2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.39,400 x 400,50.0,2.0,Yes,Yes,Yes,179.0,160000.0,"(400, 400)",454.0,454.0
+357,Amazfit,GTR 2e,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,24.0,Yes,Yes,Yes,139.0,206116.0,"(454, 454)",368.0,448.0
+358,Apple,Watch Series 6,watchOS,"Bluetooth, Wi-Fi, Cellular",Retina,1.78,368 x 448,50.0,18.0,Yes,Yes,Yes,399.0,164864.0,"(368, 448)",348.0,250.0
+359,Fitbit,Ionic,Fitbit OS,"Bluetooth, Wi-Fi",LCD,1.42,348 x 250,50.0,4.0,Yes,Yes,Yes,249.0,87000.0,"(348, 250)",280.0,280.0
+360,Garmin,Enduro,Garmin OS,"Bluetooth, Wi-Fi",Transflective,1.4,280 x 280,100.0,70.0,Yes,Yes,Yes,799.0,78400.0,"(280, 280)",454.0,454.0
+361,Huawei,Watch GT 2 Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",372.0,430.0
+362,Oppo,Watch 2 ECG Edition,ColorOS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.75,372 x 430,50.0,16.0,Yes,Yes,Yes,299.0,159960.0,"(372, 430)",320.0,300.0
+363,Suunto,9 Peak,Suunto OS,"Bluetooth, Wi-Fi",Transflective,1.2,320 x 300,100.0,14.0,Yes,Yes,No,499.0,96000.0,"(320, 300)",360.0,360.0
+364,TicWatch,E3,Wear OS,"Bluetooth, Wi-Fi",LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",390.0,390.0
+365,Fossil,Sport,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.2,390 x 390,50.0,24.0,Yes,Yes,Yes,299.0,152100.0,"(390, 390)",360.0,360.0
+366,Samsung,Gear S3 Frontier,Tizen OS,"Bluetooth, Wi-Fi",Super AMOLED,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,299.0,129600.0,"(360, 360)",454.0,454.0
+367,Amazfit,GTR 2,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,179.0,206116.0,"(454, 454)",240.0,240.0
+368,Garmin,Venu Sq,Garmin OS,"Bluetooth, Wi-Fi",LCD,1.3,240 x 240,50.0,6.0,Yes,Yes,Yes,179.0,57600.0,"(240, 240)",454.0,454.0
+369,Xiaomi,Mi Watch Revolve,Proprietary OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,14.0,Yes,Yes,Yes,119.0,206116.0,"(454, 454)",328.0,328.0
+370,Skagen,Falster 3,Wear OS,"Bluetooth, Wi-Fi",OLED,1.3,328 x 328,30.0,24.0,Yes,Yes,Yes,295.0,107584.0,"(328, 328)",416.0,416.0
+371,Michael Kors,Access Bradshaw 2,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30.0,2.0,Yes,Yes,Yes,350.0,173056.0,"(416, 416)",360.0,360.0
+372,Casio,G-Shock GSW-H1000,Wear OS,"Bluetooth, Wi-Fi",LCD,1.2,360 x 360,200.0,1.0,Yes,Yes,No,699.0,129600.0,"(360, 360)",360.0,360.0
+373,Mobvoi,TicWatch E3,Wear OS,"Bluetooth, Wi-Fi",IPS LCD,1.3,360 x 360,50.0,3.0,Yes,Yes,Yes,199.0,129600.0,"(360, 360)",348.0,442.0
+374,Withings,ScanWatch,Withings OS,"Bluetooth, Wi-Fi",PMOLED,1.38,348 x 442,50.0,30.0,Yes,No,Yes,279.0,153816.0,"(348, 442)",454.0,454.0
+375,Zepp,Z,Zepp OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.39,454 x 454,50.0,15.0,Yes,Yes,Yes,349.0,206116.0,"(454, 454)",454.0,454.0
+376,Honor,Watch GS Pro,Lite OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50.0,25.0,Yes,Yes,Yes,249.0,206116.0,"(454, 454)",326.0,326.0
+377,Oppo,Watch Free,ColorOS,"Bluetooth, Wi-Fi",AMOLED,1.64,326 x 326,50.0,14.0,Yes,No,Yes,159.0,106276.0,"(326, 326)",454.0,454.0
+378,TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,454 x 454,50.0,72.0,Yes,Yes,Yes,299.0,206116.0,"(454, 454)",,
