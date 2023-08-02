@@ -2,7 +2,7 @@
 # It is possible to specify requirements as plain names.
 seaborn
 pandas
-sklearn
+scikit-learn
 joblib
 
 # # The syntax supported here is the same as that of requirement specifiers.
